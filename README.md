@@ -33,8 +33,8 @@ Execute the program using runserver command.
 <img src="logo.png"height="100"width="540">
 </center>
 <br>
-<table align="center" width="540"cellspacing="2"cellpadding="1" border="5" bgcolor="orange">
-<caption><b>>MY TIMETABLE</b></caption>
+<table align="center" width="540"cellspacing="2"cellpadding="1" border="5" bgcolor="pink">
+<caption><b>MY TIMETABLE</b></caption>
 <tr align="center">
 <th bgcolor="silver">Day/Time></th>
 <th bgcolor="silver">Monday</th>
@@ -45,42 +45,42 @@ Execute the program using runserver command.
 <th bgcolor="silver">saturday</th>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">8-10</th>
+<th bgcolor="blue">8-10</th>
 <td>FREE SLOT</td>
 <td>FUNDAMENTALS OF  C</td>
 <td>THEORY OF COMPUTATION6</td>
 <td>COMMUNICATIVE ENGLISH</td>
-<td>DIGITAL ELECTRONICS</td>
 <td>FUNDAMENTALS OF WEB</td>
+<td>DIGITAL ELECTRONICS</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">10-12</th>
+<th bgcolor="blue">10-12</th>
 <td>COMMUNICATIVE ENGLISH</td>
 <td>COMPUTER NETWPORKS</td>
 <td>FREE SLOTS</td>
 <td>FREE SLOT</td>
-<td>FUNDAMENTALS OF WEB</td>
+<td>DIGITAL ELECTRONICS</td>
 <td>THEORY OF COMPUTATION</td>
 </tr>
 <tr>
-<th bgcolor="yellow">12-1</th>
+<th bgcolor="blue">12-1</th>
 <td colspan="5" align="center">L U N C H </td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">1-3</th>
+<th bgcolor="blue">1-3</th>
 <td>EMPD</td>
 <td>FUNDAMENTALS OF WEB</td>
 <td>FREE SLOT</td>
-<td>DIGITAL ELECTRONICS/td>
+<td>FUNDAMENTALS OF WEB</td>
 <td>COMMUNICATIVE ENGLISH</td>
 <td>EMPD</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">3-5</th>
+<th bgcolor="blue">3-5</th>
 <td>FUNDAMENTALS OF C</td>
 <td>FREE SLOT</td>
 <td>FREE SLOT</td>
-<td>FREE SLOT</td>
+<td>COMPUTER NETWPORKS</td>
 <td>EMPD</td>
 <td>FREE SLOT</td>
 </tr>
@@ -104,22 +104,22 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">3.</td>
-<td align="center">19CP205</td>
+<td align="center">19CS407</td>
 <td>THEORY OF COMPUTATION</td> 
 </tr>
 <tr>
 <td align="center">4.</td>
-<td align="center">19CP205</td>
+<td align="center">19AI303</td>
 <td>EMPD</td> 
 </tr>
 <tr>
 <td align="center">5.</td>
-<td align="center">19CS211</td>
+<td align="center">19CS406</td>
 <td>COMPUTER NETWORKS</td> 
 </tr>
 <tr>
 <td align="center">6.</td>
-<td align="center">19EY701</td>
+<td align="center">19EN101</td>
 <td>COMMUNICATIVE ENGLISH</td> 
 <tr>
 <td align="center">7.</td>
@@ -132,9 +132,7 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![Screenshot 2024-03-15 081842](https://github.com/priyadharshini210/slot/assets/148514638/047c40dd-4d79-4087-86a4-660f39e02326)
-
-
+![Screenshot (10)](https://github.com/priyadharshini210/slot/assets/148514638/adcfa0fd-93fb-4f23-85b3-71e90188496c)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
